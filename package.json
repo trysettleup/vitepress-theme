@@ -5,7 +5,10 @@
   "main": "src/index.ts",
   "exports": {
     ".": "./src/index.ts",
-    "./config": "./src/config.ts"
+    "./config": {
+      "types": "./src/config.ts",
+      "default": "./src/config.js"
+    }
   },
   "files": ["src"],
   "peerDependencies": {
