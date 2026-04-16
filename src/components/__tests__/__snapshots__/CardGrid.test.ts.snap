@@ -1,0 +1,3 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`CardGrid > matches snapshot 1`] = `"<div class="card-grid"><a class="card-link" href="/guide">Guide</a></div>"`;

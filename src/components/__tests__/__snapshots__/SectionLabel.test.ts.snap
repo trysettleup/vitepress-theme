@@ -1,0 +1,3 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`SectionLabel > matches snapshot 1`] = `"<div data-v-b3fb8725="" class="section-label">Guide</div>"`;

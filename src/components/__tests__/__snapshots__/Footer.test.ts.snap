@@ -1,0 +1,12 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Footer > matches snapshot 1`] = `
+"<footer data-v-4896eafd="" class="site-footer">
+  <div data-v-4896eafd="" class="footer-inner">
+    <div data-v-4896eafd="" class="footer-left">© 2024 My Company</div>
+    <div data-v-4896eafd="" class="footer-right">
+      <!--v-if--><a data-v-4896eafd="" href="/privacy">Privacy</a><span data-v-4896eafd="" class="footer-sep">·</span><a data-v-4896eafd="" href="https://github.com/example" target="_blank" rel="noopener">GitHub</a>
+    </div>
+  </div>
+</footer>"
+`;

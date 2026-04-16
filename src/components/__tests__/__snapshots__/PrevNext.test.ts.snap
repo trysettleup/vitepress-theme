@@ -1,0 +1,3 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`PrevNext > matches snapshot 1`] = `"<nav data-v-f62f6188="" class="prev-next"><a data-v-f62f6188="" href="/guide/intro" class="prev-next-link prev"><span data-v-f62f6188="" class="prev-next-label">← Previous</span><span data-v-f62f6188="" class="prev-next-title">Introduction</span></a><a data-v-f62f6188="" href="/reference/api" class="prev-next-link next"><span data-v-f62f6188="" class="prev-next-label">Next →</span><span data-v-f62f6188="" class="prev-next-title">API</span></a></nav>"`;
