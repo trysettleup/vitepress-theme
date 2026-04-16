@@ -1,0 +1,25 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`HeroSection > matches snapshot with shallowMount 1`] = `
+"<section data-v-c0a1d4d8="" class="hero">
+  <div data-v-c0a1d4d8="" class="hero-bg">
+    <div data-v-c0a1d4d8="" class="hero-blob hero-blob-cyan"></div>
+    <div data-v-c0a1d4d8="" class="hero-blob hero-blob-indigo"></div>
+  </div>
+  <div data-v-c0a1d4d8="" class="hero-inner">
+    <div data-v-c0a1d4d8="" class="hero-left">
+      <h1 data-v-c0a1d4d8="" class="hero-title"><span class="gradient-text">Hello</span> World</h1>
+      <p data-v-c0a1d4d8="" class="hero-description">The best tool for the job.</p>
+      <div data-v-c0a1d4d8="" class="hero-buttons"><a data-v-c0a1d4d8="" href="/docs/start" class="btn-primary">Get Started</a><a data-v-c0a1d4d8="" href="/docs/about" class="btn-secondary">Learn More</a></div>
+    </div>
+    <div data-v-c0a1d4d8="" class="hero-right">
+      <div data-v-c0a1d4d8="" class="code-block">
+        <div data-v-c0a1d4d8="" class="code-header"><span data-v-c0a1d4d8="" class="code-dot dot-red"></span><span data-v-c0a1d4d8="" class="code-dot dot-yellow"></span><span data-v-c0a1d4d8="" class="code-dot dot-green"></span><span data-v-c0a1d4d8="" class="code-title">app.ts</span></div>
+        <div data-v-c0a1d4d8="" class="code-body"><span>code</span></div>
+      </div>
+      <!--v-if-->
+    </div>
+  </div>
+  <div data-v-c0a1d4d8="" class="glow-divider"></div>
+</section>"
+`;

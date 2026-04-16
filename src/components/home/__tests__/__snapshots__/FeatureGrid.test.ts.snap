@@ -1,0 +1,28 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`FeatureGrid > matches snapshot 1`] = `
+"<section data-v-ab0757a3="" class="features-section">
+  <div data-v-ab0757a3="" class="features-bg"></div>
+  <div data-v-ab0757a3="" class="features-inner"><span data-v-ab0757a3="" class="section-label">Features</span>
+    <h2 data-v-ab0757a3="" class="section-heading"><span class="gradient-text">Key</span> Features</h2>
+    <div data-v-ab0757a3="" class="features-grid">
+      <div data-v-ab0757a3="" class="feature-card">
+        <div data-v-ab0757a3="" class="feature-icon">⚡</div>
+        <h3 data-v-ab0757a3="">Fast</h3>
+        <p data-v-ab0757a3="">Blazing fast performance</p>
+      </div>
+      <div data-v-ab0757a3="" class="feature-card">
+        <div data-v-ab0757a3="" class="feature-icon">🔒</div>
+        <h3 data-v-ab0757a3="">Secure</h3>
+        <p data-v-ab0757a3="">Enterprise-grade security</p>
+      </div>
+      <div data-v-ab0757a3="" class="feature-card">
+        <div data-v-ab0757a3="" class="feature-icon">🎨</div>
+        <h3 data-v-ab0757a3="">Flexible</h3>
+        <p data-v-ab0757a3="">Highly customizable</p>
+      </div>
+    </div>
+  </div>
+  <div data-v-ab0757a3="" class="glow-divider"></div>
+</section>"
+`;

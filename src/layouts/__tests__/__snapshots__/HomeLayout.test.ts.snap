@@ -1,0 +1,12 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`HomeLayout > matches snapshot 1`] = `
+"<div data-v-6db7064b="" class="home-layout">
+  <nav-bar-stub data-v-6db7064b="" showmobiletoggle="true"></nav-bar-stub>
+  <mobile-nav-stub data-v-6db7064b="" open="false"></mobile-nav-stub>
+  <main data-v-6db7064b="">
+    <content data-v-6db7064b=""></content>
+  </main>
+  <footer-stub data-v-6db7064b=""></footer-stub>
+</div>"
+`;

@@ -1,0 +1,41 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`ArchitectureFlow > matches snapshot 1`] = `
+"<section data-v-e4cee3b3="" class="arch-section">
+  <div data-v-e4cee3b3="" class="arch-bg"></div>
+  <div data-v-e4cee3b3="" class="arch-inner"><span data-v-e4cee3b3="" class="section-label">How It Works</span>
+    <h2 data-v-e4cee3b3=""><span class="gradient-text">Flow</span> Architecture</h2>
+    <p data-v-e4cee3b3="" class="arch-subtitle">Simple and powerful</p>
+    <div data-v-e4cee3b3="" class="arch-flow">
+      <div data-v-e4cee3b3="" class="arch-step">
+        <div data-v-e4cee3b3="" class="arch-node">
+          <div data-v-e4cee3b3="" class="arch-icon">📥</div>
+          <h4 data-v-e4cee3b3="">Input</h4>
+          <p data-v-e4cee3b3="">Receive data</p>
+        </div><svg data-v-e4cee3b3="" class="arch-arrow" viewBox="0 0 40 16" fill="none">
+          <line data-v-e4cee3b3="" x1="0" y1="8" x2="30" y2="8" stroke="var(--accent-primary)" stroke-width="2"></line>
+          <polygon data-v-e4cee3b3="" points="30,3 40,8 30,13" fill="var(--accent-primary)"></polygon>
+        </svg>
+      </div>
+      <div data-v-e4cee3b3="" class="arch-step">
+        <div data-v-e4cee3b3="" class="arch-node">
+          <div data-v-e4cee3b3="" class="arch-icon">⚙️</div>
+          <h4 data-v-e4cee3b3="">Process</h4>
+          <p data-v-e4cee3b3="">Transform data</p>
+        </div><svg data-v-e4cee3b3="" class="arch-arrow" viewBox="0 0 40 16" fill="none">
+          <line data-v-e4cee3b3="" x1="0" y1="8" x2="30" y2="8" stroke="var(--accent-primary)" stroke-width="2"></line>
+          <polygon data-v-e4cee3b3="" points="30,3 40,8 30,13" fill="var(--accent-primary)"></polygon>
+        </svg>
+      </div>
+      <div data-v-e4cee3b3="" class="arch-step">
+        <div data-v-e4cee3b3="" class="arch-node">
+          <div data-v-e4cee3b3="" class="arch-icon">📤</div>
+          <h4 data-v-e4cee3b3="">Output</h4>
+          <p data-v-e4cee3b3="">Send results</p>
+        </div>
+        <!--v-if-->
+      </div>
+    </div>
+  </div>
+</section>"
+`;

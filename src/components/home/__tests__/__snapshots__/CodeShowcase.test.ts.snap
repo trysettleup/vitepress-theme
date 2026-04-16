@@ -1,0 +1,19 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`CodeShowcase > matches snapshot 1`] = `
+"<section data-v-b587b055="" class="code-showcase">
+  <div data-v-b587b055="" class="showcase-inner">
+    <div data-v-b587b055="" class="showcase-text"><span data-v-b587b055="" class="section-label">Dev Experience</span>
+      <h2 data-v-b587b055=""><span class="gradient-text">Clean</span> Code</h2>
+      <p data-v-b587b055="">Write clean code easily.</p><a data-v-b587b055="" href="/docs/guide" class="showcase-btn">Learn More</a>
+    </div>
+    <div data-v-b587b055="" class="showcase-spacer"></div>
+    <div data-v-b587b055="" class="showcase-code">
+      <div data-v-b587b055="" class="code-block">
+        <div data-v-b587b055="" class="code-header"><span data-v-b587b055="" class="code-dot dot-red"></span><span data-v-b587b055="" class="code-dot dot-yellow"></span><span data-v-b587b055="" class="code-dot dot-green"></span><span data-v-b587b055="" class="code-title">example.ts</span></div><pre data-v-b587b055="" class="code-body"><code data-v-b587b055=""><span class="c-key">const</span> x = 1</code></pre>
+      </div>
+    </div>
+  </div>
+  <div data-v-b587b055="" class="glow-divider"></div>
+</section>"
+`;

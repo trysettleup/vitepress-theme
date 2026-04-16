@@ -1,0 +1,21 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`DocLayout > matches snapshot 1`] = `
+"<div data-v-af88b4b2="" class="doc-layout">
+  <nav-bar-stub data-v-af88b4b2="" showmobiletoggle="true"></nav-bar-stub>
+  <mobile-nav-stub data-v-af88b4b2="" open="false"></mobile-nav-stub>
+  <div data-v-af88b4b2="" class="doc-container">
+    <div data-v-af88b4b2="" class="doc-body">
+      <side-bar-stub data-v-af88b4b2=""></side-bar-stub>
+      <main data-v-af88b4b2="" class="doc-main">
+        <div data-v-af88b4b2="" class="doc-content">
+          <section-label-stub data-v-af88b4b2=""></section-label-stub>
+          <content data-v-af88b4b2=""></content>
+          <prev-next-stub data-v-af88b4b2=""></prev-next-stub>
+        </div>
+      </main>
+      <table-of-contents-stub data-v-af88b4b2=""></table-of-contents-stub>
+    </div>
+  </div>
+</div>"
+`;
