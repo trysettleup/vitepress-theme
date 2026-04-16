@@ -10,9 +10,15 @@
       "default": "./src/config.js"
     }
   },
-  "files": ["src"],
+  "files": [
+    "src"
+  ],
   "peerDependencies": {
     "vitepress": "^1.0.0",
     "vue": "^3.3.0"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.4",
+    "vue": "^3.5.32"
   }
 }
