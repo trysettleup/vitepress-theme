@@ -164,6 +164,11 @@ defineProps<{
   min-width: 0;
 }
 
+/* Code token colors (v-html content needs :deep) */
+.code-body :deep(.c-key) { color: var(--dark-accent); }
+.code-body :deep(.c-value) { color: var(--dark-text); }
+.code-body :deep(.c-brace) { color: var(--dark-text-muted); }
+
 .glow-divider {
   position: absolute;
   bottom: 0;

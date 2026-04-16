@@ -236,6 +236,12 @@ function isExternalLink(url: string): boolean {
   font-family: var(--font-mono);
 }
 
+/* Code token colors (v-html content needs :deep) */
+.code-body :deep(.c-comment) { color: var(--dark-text-muted); }
+.code-body :deep(.c-variable) { color: #F472B6; }
+.code-body :deep(.c-function) { color: var(--dark-accent); }
+.code-body :deep(.c-string) { color: #34D399; }
+
 /* Divider */
 .glow-divider {
   position: absolute;
