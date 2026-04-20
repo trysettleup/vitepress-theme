@@ -8,7 +8,8 @@
     "./config": {
       "types": "./src/config.ts",
       "default": "./src/config.js"
-    }
+    },
+    "./src/*": "./src/*"
   },
   "scripts": {
     "test": "vitest run",
